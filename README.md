@@ -1,7 +1,7 @@
 # DTLEquity2022
 
 ## Description
-A code written on Python for my submission in the DTL Equity Research Challenge 2022. Data is taken from the yfinance API library, and processed through pandas, numpy and statsmodels.tsa.stattools. Attached is a Word file containing the report, a .ipynb file containing the program, an Excel file containing the financial statements analysis.
+A code written on Python for my submission in the DTL Equity Research Challenge 2022. Data is taken from the yfinance API library, and processed through pandas, numpy and statsmodels.tsa.stattools. Attached is a .pdf containing the report, a .ipynb containing the program, an .xlsx file containing the financial statements analysis.
 
 ### How to Use
 Simply run the .ipnyb file
