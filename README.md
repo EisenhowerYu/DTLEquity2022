@@ -27,5 +27,5 @@ In [11]: Arbitrage opportunities from backtested data
 In [12]: Cumulative PnL resulting from arbitrage  
 
 ### Credits
-Code written by Eisenhower Yu, 3rd Year BS Management  
-Financial analysis by Bruce Romualdez, 3rd Year BS Applied Mathemetics Finance
+Code and analysis by Eisenhower Yu, Ateneo de Manila University 3rd Year BS Management  
+Cross-checked with Bruce Romualdez, Ateneo de Manila University 3rd Year BS Applied Mathemetics Finance
